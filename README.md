@@ -3,3 +3,13 @@
 <a href="https://github.com/makutaallen"><img src="https://img.shields.io/badge/-GitHub-000000?&style=for-the-badge&logo=github&logoColor=white" /></a>
 
 I am a junior at **New Jersey Institute of Technology** majorining in Computer Science. I am passionate about offensive and defensive cybersecurity. 
+## Skills
+
+| Skill                                         | Associated Project         |
+|-----------------------------------------------|----------------------------|
+| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
+| Network Traffic Monitoring                    | <a href="https://google.com">Detection Lab</a>|
+| Security Automation with Shuffle SOAR         | SOC Automation Lab|
+| Incident Response Planning and Execution      | SOC Automation Lab|
+<!-- | Case Management with TheHive                  | SOC Automation Lab| -->
+| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
