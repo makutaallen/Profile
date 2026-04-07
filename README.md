@@ -2,27 +2,21 @@
 <a href="https://www.linkedin.com/in/makutaallen"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://github.com/makutaallen"><img src="https://img.shields.io/badge/-GitHub-000000?&style=for-the-badge&logo=github&logoColor=white" /></a>
 
-I am a Computer Science student at the New Jersey Institute of Technology with a strong interest in cybersecurity, threat detection, and security analysis. My experience includes IT support, hardware security research, SIEM lab work, network traffic analysis, and Python-based security projects.
+I am a Computer Science student at the New Jersey Institute of Technology with a strong interest in cybersecurity. My experience includes IT support, hardware security research, SIEM lab work, network traffic analysis, and Python-based security projects.
 
 ## Objective
 
-My goal is to build a career in cybersecurity, with a focus on Security Operations Center (SOC) work, threat detection, incident response, and security monitoring. I am developing hands-on skills in log analysis, phishing detection, network traffic investigation, and vulnerability-focused security work.
+My goal is to build a career in cybersecurity, focusing on threat detection, incident response, and security anaylis. I am developing hands-on skills in log analysis, phishing detection, network traffic investigation, and vulnerability-focused security work.
 
-## Education
-
-- I am a junior at **New Jersey Institute of Technology (NJIT)** 
-- **County College of Morris (CCM)** — Associate of Science in Computer Science, ** May 2025**
 
 ## Skills
 
 | Skill | Associated Project |
 |---|---|
-| SIEM Implementation and Log Analysis | <a href="https://github.com/makutaallen">SIEM Implementation and Log Analysis Lab</a> |
 | Network Traffic Monitoring and Attack Detection | <a href="https://github.com/makutaallen">Network Traffic Analysis Lab</a> |
-| Phishing Analysis | <a href="https://github.com/makutaallen">Phishing URL Detector</a> |
-| Incident Investigation and Alert Triage | <a href="https://github.com/makutaallen">SIEM Implementation and Log Analysis Lab</a> |
-| Scripting and Automation with Python | <a href="https://github.com/makutaallen">Phishing URL Detector</a> |
-| Hardware Security Research and Anomaly Detection | <a href="https://github.com/makutaallen">Hardware Trojan Detection Research</a> |
+|Incident Investigation and Alert Triage | <a href="https://github.com/makutaallen">SIEM Implementation and Log Analysis Lab</a> |
+| Phishing URL Detector | <a href="https://github.com/makutaallen">Phishing URL Detector</a> |
+
 
 ## Tools
 
@@ -53,49 +47,6 @@ My goal is to build a career in cybersecurity, with a focus on Security Operatio
     <img src="https://img.shields.io/badge/-Microsoft_Excel-217346?&style=for-the-badge&logo=microsoft-excel&logoColor=white" />
 </div>
 
-## Experience
+## Certifications
 
-### IT Intern — In Shore Technologies
-**June 2025 – August 2025 | Newark, NJ**
-- Set up and configured 500+ computer workstations and laptops across multiple school sites
-- Performed domain joins, powerwashes, and standardized configurations for secure network access
-- Securely wiped and deployed computers while handling sensitive hardware and confidential data
-- Diagnosed and repaired hardware issues including screens, batteries, motherboards, keyboards, and other components
-
-### NSF REU Undergraduate Research Intern — Florida International University
-**June 2024 – July 2024 | Miami, FL**
-- Conducted hardware security research focused on detecting hardware Trojans in integrated circuits
-- Collected and analyzed ring oscillator data from 32 integrated circuits using MATLAB and Excel
-- Applied unsupervised machine learning algorithms to identify anomalous behavior
-- Achieved an 80% detection rate across tested circuits
-
-## Projects
-
-### <a href="https://github.com/makutaallen">Network Traffic Analysis Lab</a>
-Analyzed packet captures using Wireshark in a Kali Linux virtual machine to identify suspicious traffic patterns and extract indicators of compromise from simulated attack scenarios.
-
-### <a href="https://github.com/makutaallen">SIEM Implementation and Log Analysis Lab</a>
-Monitored and triaged alerts in a simulated SOC environment using Splunk and a Windows virtual machine. Investigated phishing campaigns, malicious files, and documented incidents with IOC-based findings and recommendations.
-
-### <a href="https://github.com/makutaallen">Phishing URL Detector</a>
-Developed a Python-based phishing URL detector that checks URLs for malicious indicators such as IP addresses, missing HTTPS, suspicious symbols, and deceptive keywords.
-
-### <a href="https://github.com/makutaallen">Hardware Trojan Detection Research</a>
-Performed anomaly detection research on integrated circuit ring oscillator data using unsupervised machine learning techniques to identify possible hardware Trojan signatures.
-
-## Certifications & Professional Development
-
-- **Information Security Certification** — County College of Morris
-- **NJIT Cybersecurity Club** — Active Member
-- **County College of Morris Cybersecurity Club** — Officer
-
-## Coursework / Areas of Interest
-
-- Network Security
-- Information Security
-- Incident Response
-- Threat Detection
-- Risk Management
-- Vulnerability Assessment
-- Phishing Analysis
-- Anomaly Detection
+<img src="https://img.shields.io/badge/-Information%20Security%20Certification%20%7C%20CCM-8B0000?&style=for-the-badge&logo=shield&logoColor=white" />
