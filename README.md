@@ -9,9 +9,9 @@ I am a Computer Science student at the New Jersey Institute of Technology with a
 My goal is to build a career in cybersecurity, focusing on threat detection, incident response, and security anaylis. I am developing hands-on skills in log analysis, phishing detection, network traffic investigation, and vulnerability-focused security work.
 
 
-## Skills
+## Projects
 
-| Skill | Associated Project |
+| Project | Associated Project |
 |---|---|
 | Network Traffic Monitoring and Attack Detection | <a href="https://github.com/makutaallen">Network Traffic Analysis Lab</a> |
 |Incident Investigation and Alert Triage | <a href="https://github.com/makutaallen">SIEM Implementation and Log Analysis Lab</a> |
